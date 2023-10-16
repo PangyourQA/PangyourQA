@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+🔭 I’m currently working on Data science master course Big data management, here is my first try in the course to create a repository in github.
 <!--
 **PangyourQA/PangyourQA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
